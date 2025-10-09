@@ -302,49 +302,6 @@ The contents of this GitHub repository is organised as follows:
     ├── 📂 scripts/ ➡️ store of libraries and Python and open source code 📙🛠
     │
     ├── 📂 notebooks/ ➡️ Jupyter notebooks for exploration and visualisation
-    │   ├── 📂 1_data_scraping/          # notebooks with code to acquire data via webscraping
-    │   │   ├── Capology Player Salary Web Scraping.ipynb
-    │   │   ├── FBref Player Stats Web Scraping.ipynb
-    │   │   └── TransferMarkt Player Bio and Status Web Scraping.ipynb   
-    │   │
-    │   ├── 📂 2_data_parsing/           # notebooks with code to acquire data via APIs
-    │   │   ├── Elo Team Ratings Data Parsing.ipynb
-    │   │   ├── StatsBomb Data Parsing.ipynb
-    │   │   └── Wyscout Data Parsing.ipynb   
-    │   │
-    │   ├── 📂 3_data_engineering/       # notebooks with code to engineer raw, unprocessed data to processed data
-    │   │   ├── Capology Player Salary Data Engineering.ipynb
-    │   │   ├── Centre Circle Opta CPL Data Engineering.ipynb
-    │   │   ├── FBref Player Stats Data Engineering.ipynb
-    │   │   ├── Opta #mcfcanalytics PL 2011-2012.ipynb
-    │   │   ├── StatsBomb Data Engineering.ipynb
-    │   │   ├── The Guardian Player Recorded Transfer Fees Data Engineering.ipynb
-    │   │   ├── TransferMarkt Historical Market Value Data Engineering.ipynb
-    │   │   ├── TransferMarkt Player Bio and Status Data Engineering.ipynb
-    │   │   ├── TransferMarkt Player Recorded Transfer Fees Data Engineering.ipynb
-    │   │   ├── Understat Data Engineering.ipynb
-    │   │   └── Wyscout Data Engineering.ipynb
-    │   │
-    │   ├── 📂 4_data_unification/       # notebooks with code to unify disperate datasets
-    │   │   └── Unification of Aggregated Seasonal Football Datasets.ipynb
-    │   │
-    │   └── 📂 5_data_analysis_and_projects    # notebooks with code for example projects and analysis
-    │       ├── 📂 player_similarity_and_clustering
-    │       │   └── PCA and K-Means Clustering of 'Piqué-like' Defenders.ipynb 
-    │       │
-    │       ├── 📂 tracking_data
-    │       │   ├── 📂 metrica_sports
-    │       │   │   └── Metrica Tracking Data EDA.ipynb
-    │       │   └── 📂 signality
-    │       │       ├── Signality Tracking Data Engineering.ipynb
-    │       │       └── Signality Tracking Data EDA.ipynb
-    │       │
-    │       └── 📂 xg_modeling
-    │           ├── 📂 shots_dataset
-    │           │   ├── Logistic Regression Expected Goals Model.ipynb
-    │           │   └── XGBoost Expected Goals Model.ipynb
-    │           └── 📂 opta_dataset
-    │               └── raining of an Expected Goals Model Using Opta Event Data.ipynb
     │
     ├── 📄 README.md ➡️ project description and setup guide for better structure and collaboration 📖🤝
     │
